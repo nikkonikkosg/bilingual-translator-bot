@@ -1,0 +1,28 @@
+# Requirements
+
+## Document Processing
+- python-docx
+- PyPDF2
+
+## Translation APIs
+- googletrans==4.0.0-rc1
+- deep_translator
+
+## HTTP Requests
+- requests
+
+## Configuration Management
+- python-decouple
+
+## Logging
+- loguru
+
+## Testing
+- pytest
+- unittest
+
+## Code Quality Tools
+- flake8
+- black
+- mypy
+
