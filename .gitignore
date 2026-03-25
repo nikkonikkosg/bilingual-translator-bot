@@ -1,0 +1,17 @@
+# Exclude config files
+*.config
+
+# Exclude API keys
+*.api
+
+# Exclude Python cache
+__pycache__/
+
+# Exclude virtual environments
+venv/
+
+# Exclude original translate folder
+original_translate/
+
+# Exclude bilingual complete folder
+bilingual_complete/
